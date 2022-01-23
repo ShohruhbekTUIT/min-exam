@@ -1,0 +1,32 @@
+.control{
+  background-image: url(../../images/runners1.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+  padding: 240px 125px 240px 635px;
+}
+.control__info{
+  width: 490px;
+}
+.control__title{
+  font-family: "Roboto" ,sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 120%;
+  color: #FFFFFF;
+  margin: 0;
+  margin-bottom: 30px;
+}
+.control__text{
+  font-family: "Roboto" ,sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 150%;
+   color: #FFFFFF;
+   margin: 0;
+   margin-bottom: 30px;
+   border-left: 3px solid #FFFFFF;
+  padding-left: 40px;
+}

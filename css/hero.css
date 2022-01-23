@@ -1,0 +1,52 @@
+.site-hero {
+  background-image: url(../../images/watches.jpg);
+  background-repeat: no-repeat;
+  background-position: calc(50% + 530px) calc(50% + 20px);
+  background-size: 587px 565px;
+  padding: 150px 0;
+  border-bottom: 2px solid #DDDDDD;
+  margin-bottom: 68px;
+}
+
+.site-hero__info {
+  width: 493px;
+}
+
+.site-hero__title {
+  font-family: "Roboto" , sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 120%;
+  color: #000000;
+  margin: 0;
+  margin-bottom: 30px;
+}
+
+.site-hero__text {
+  font-family: "Roboto" , sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 150%;
+  color: #777777;
+  border-left: 3px solid #888888;
+  padding-left: 40px;
+  margin: 0;
+  margin-bottom: 30px;
+}
+
+.site-hero__link {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 150%;
+  padding: 12px 38px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #fff;
+  background: #EA625C;
+}
+/*# sourceMappingURL=hero.css.map */

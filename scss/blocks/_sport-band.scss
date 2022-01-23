@@ -1,0 +1,36 @@
+.sport-band__container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 70px;
+}
+.sport-band__info{
+  width: 493px;
+  vertical-align: middle;
+}
+.sport-band__title{
+  font-family: "Roboto" ,sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 120%;
+  color: #000000;
+  margin: 0;
+  margin-bottom: 30px;
+}
+.sport-band__text{
+  font-family: "Roboto" , sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 150%;
+  color: #777777;
+border-left: 3px solid #888888;
+  margin: 0;
+  margin-bottom: 30px;
+  padding-left: 40px;
+}
+.sport-band__img{
+  width: 400px;
+  height: 600px;
+}
